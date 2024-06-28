@@ -1,6 +1,6 @@
 # Boas vindas ao meu perfil 💙💙
 
-Meu nome é **[Nagela Guimarães]**
+Meu nome é **Nagela Guimarães**
 
 Estou estudando na [Alura](https://www.alura.com.br/)
 
